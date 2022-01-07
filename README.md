@@ -1,6 +1,7 @@
 <h1>FIVEM USABLE DRIGS WITH EFFECTS | QBCore FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$3</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/zQJ--6U52Aw">YouTube</a></p>
+<p>Fully Compatible with <a href="https://youtu.be/uiQaDUQ7FBo" target="_blank" rel="noopener"><strong>ak47_qb_druglabs</strong></a></p>
 <p><strong><a href="https://github.com/MenanAk47/ak47_usabledrugs" target="_blank">ESX Version</a></strong></p>
 <p><strong>Features: </strong></p>
 <ol>
